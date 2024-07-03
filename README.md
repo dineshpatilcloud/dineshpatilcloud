@@ -81,7 +81,7 @@ I am a seasoned DevOps Engineer and Cloud Architect with over 17+ years of exper
 ---
 
 ### Articles/Activities
-- 🚀[**interactive labs**](https://killercoda.com/dineshppatil)
+- 🚀[**interactive labs in Killercoda**](https://killercoda.com/dineshppatil)
 - 📜 **Articles**
      * [Deep Dive into Linux Namespaces: Understanding Container Isolation](https://www.linkedin.com/posts/dineshppatil_withabrlabs-containers-linux-activity-7094568289246339072-Fctm?utm_source=share&utm_medium=member_desktop)
      * [The Untold Story: Containers Before Docker's Rise - The LXC Revolution !!](https://www.linkedin.com/posts/dineshppatil_lxc-dockercontainer-activity-7089480039959855104-Y3Zy?utm_source=share&utm_medium=member_desktop)
