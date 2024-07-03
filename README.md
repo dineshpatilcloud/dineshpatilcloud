@@ -44,8 +44,8 @@ I am a seasoned DevOps Engineer and Cloud Architect with over 16 years of experi
 
 ### Professional Experience
 
-#### **Senior Consultant (DevOps)**
-**General Mills India Pvt Ltd, Powai | September 2021 – Present**
+#### **Senior Consultant (DevOps and Cloud Engineering)**
+**General Mills India Pvt Ltd, Powai | July 2017 – Present**
 
 - 🚀 **Architected & Optimized Kubernetes Solutions**: Developed GKE (Google Kubernetes Engine) and OnPrem solutions, increasing application deployment efficiency by 20%.
 - 🔄 **Led High-Impact Application Migrations**: Migrated critical applications to Kubernetes, reducing infrastructure costs by 30% and enhancing system reliability by 25%.
