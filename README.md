@@ -17,7 +17,7 @@ I am a seasoned DevOps Engineer and Cloud Architect with over 17+ years of exper
 - **Kubernetes Ecosystem**: GKE (Google Kubernetes Engine), OnPrem, GitOps, ArgoCD, Flux
 - **CI/CD**: Jenkins, GitHub Actions, Git, security scanning tools
 - **Infrastructure as Code (IaC)**: Terraform, Sentinel, OPA policies
-- **Cloud Platforms**: Google Cloud Platform (GCP) - Compute Engine, Cloud Run, GKE, GCP Firewall, VPC, Load Balancer, GCS, IAM; Azure Cloud
+- **Cloud Platforms**: Google Cloud Platform, Azure Cloud
 
 #### **Automation & Scripting**
 
