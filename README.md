@@ -1,16 +1,19 @@
 ## <div style='text-align: center;'>Dinesh Patil</div>      
-<div style="display: flex; justify-content: space-between;">
-  <div style='text-align: left;'>
-    <a href="mailto:dineshppatil@gmail.com">
-      <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge">
-    </a>
-  </div>
-  <div style='text-align: right;'>
-    <a href="https://www.linkedin.com/in/dineshppatil/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-  </div>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <a href="mailto:dineshppatil@gmail.com">
+        <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge">
+      </a>
+    </td>
+    <td align="right" width="50%">
+      <a href="https://www.linkedin.com/in/dineshppatil/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ### 🌐 DevOps Engineer | Cloud Architect | Kubernetes Specialist 
