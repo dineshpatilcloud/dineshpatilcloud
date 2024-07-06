@@ -12,7 +12,7 @@
   </div>
 </div>
 
-### 🌐 DevOps Engineer | Cloud Architect | Kubernetes Specialist
+### 🌐 DevOps Engineer | Cloud Architect | Kubernetes Specialist | Platform Engineering
 
 ---
 
