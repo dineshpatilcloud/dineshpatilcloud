@@ -6,8 +6,9 @@
         <img align='right' src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a><br>
 
+---
 
-> <div style='text-align: center;'> 🌐 DevOps Engineer | Cloud Architect | Kubernetes Specialist </div>
+### <div style='text-align: center;'> 🌐 DevOps Engineer | Cloud Architect | Kubernetes Specialist </div>
 
 
 ### About Me
