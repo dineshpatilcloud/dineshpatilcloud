@@ -14,6 +14,12 @@
   </tr>
 </table>
 
+<a href="mailto:dineshppatil@gmail.com">
+        <img align='left' src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge">
+</a><a href="https://www.linkedin.com/in/dineshppatil/">
+        <img align='right' src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      </a>
+
 ### 🌐 DevOps Engineer | Cloud Architect | Kubernetes Specialist 
 
 ---
