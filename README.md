@@ -8,7 +8,7 @@
 
 ---
 
-### <div style='text-align: center;'> 🌐 DevOps Engineer | Cloud Architect | Kubernetes Specialist </div>
+### <p aling='center'> 🌐 DevOps Engineer | Cloud Architect | Kubernetes Specialist </p>
 
 
 ### About Me
