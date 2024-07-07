@@ -1,4 +1,4 @@
-## <div style='text-align: center;'>Dinesh Patil</div>      
+## <p aling='center'>Dinesh Patil</p>      
 
 <a href="mailto:dineshppatil@gmail.com">
         <img align='left' src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge">
